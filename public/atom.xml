@@ -4,13 +4,30 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-01-28T16:30:53+04:00</updated>
+  <updated>2012-01-28T17:57:05+04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Resurrection]]></title>
+    <link href="http://yoursite.com/blog/2012/01/28/resurrection/"/>
+    <updated>2012-01-28T17:21:00+04:00</updated>
+    <id>http://yoursite.com/blog/2012/01/28/resurrection</id>
+    <content type="html"><![CDATA[<p>Finally I decided to give another shot to blogging. This is my third attempt.</p>
+
+<p>If you skim over the previous attempts, you will see that every time it becomes more serous. And hopefully this time it&#8217;s already at the level of seriousness that I&#8217;ll stick to it.</p>
+
+<p>Crossing fingers and stopping breath for a moment I think loudly &#8220;promise to take care of this one&#8221;.</p>
+
+<p>More technically, I&#8217;m just writing something to test out this new blogging platform that I choose to make my life more difficult.</p>
+
+<p>In short, Welcome!</p>
+]]></content>
+  </entry>
   
 </feed>
