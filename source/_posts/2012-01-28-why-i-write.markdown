@@ -34,11 +34,11 @@ And I truly believe that it is also for my own sake.If people around me know as 
 Actually I think knowledge sharing is a powerful motivator for constant learning.
 
 ### I want people to know me
-Ideally when meeting new people I would let them know my blog's URL and eventually they could learn about me. In reality no one is going to read all the junk I'm putting up here. Even if some of them do, I'm not going to write about everything.
+Ideally when meeting new people I would let them know my blog's URL and they could learn about me eventually. In reality no one is going to read all the stuff I'm putting up here. Even if some of them do, I'm not going to write about everything.
 
 But the blog can be used to express my opinion on a particular subject. Whenever they want my opinion on a subject, a blog post can be the answer. And the URL of the post can be thrown in for discussion. I find this an effective way of getting others to know me.
 
 ### I want to get followers
-I would like to be famous. Not kind of star famous. Simply get like-minded people to read my blog reglarly. Why do I need this? Come on, you know why. Read the about page again, I'm bootstraping my startups.
+I would like to be famous. Not kind of star-famous. Simply get like-minded people to read my blog regularly. Why do I need this? Come on, you know why. Read the about page again, I'm bootstraping my startups.
 
 And I belive if I post interesting and quality contnet regularly I may have a chance to get my followers.
