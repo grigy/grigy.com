@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://grigy.com/atom.xml" rel="self"/>
   <link href="http://grigy.com/"/>
-  <updated>2012-01-28T18:10:22+04:00</updated>
+  <updated>2012-01-28T21:22:10+04:00</updated>
   <id>http://grigy.com/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Why I Write]]></title>
+    <link href="http://grigy.com/blog/2012/01/28/why-i-write/"/>
+    <updated>2012-01-28T18:55:00+04:00</updated>
+    <id>http://grigy.com/blog/2012/01/28/why-i-write</id>
+    <content type="html"><![CDATA[<p>The simple answer is because I feel I need to. But you are not here for that answer.</p>
+
+<p>There are many write-ups about why should someone blog. They cover both objective and subjective benefits of blogging. This is not a generalization of these ideas. Here I want to talk about my personal reasons, the ones to which I came myself while learning through living my life.</p>
+
+<p>Here are 5 reasons from the top of my head:</p>
+
+<h3>I get it better if I write it down</h3>
+
+<p>Since college years I noticed that when I write my ideas I get them better. Later I realized how it works.</p>
+
+<p>When you write about something you need to think of every detail of it, make logical connections between pieces and represent it in a simple, readable form. And while performing these steps you think about the subject deeper, from different angles and as a result getting it better.</p>
+
+<p>Since then whenever I want to crack complex subjects down I write them.</p>
+
+<h3>Writing improves my writing skills</h3>
+
+<p>I want to be good at English writing. Not good, even better.</p>
+
+<p>The single most effective way of mastering something is constant practicing. And how do you practice writing? Right, by writing. But people normally don&#8217;t write much during the day, of course if that&#8217;s not what they do for living. I also don&#8217;t write much at my job.</p>
+
+<p>So blogging makes a perfect sense to me for improving my writing skills.</p>
+
+<h3>I want to share my knowledge</h3>
+
+<p>Really, I want to share what I know to help others.</p>
+
+<p>And I truly believe that it is also for my own sake.If people around me know as much as I do, then I need to learn even more to catch them up. This is a little secret tool to keep me in constant learning loop.</p>
+
+<p>Actually I think knowledge sharing is a powerful motivator for constant learning.</p>
+
+<h3>I want people to know me</h3>
+
+<p>Ideally when meeting new people I would let them know my blog&#8217;s URL and eventually they could learn about me. In reality no one is going to read all the junk I&#8217;m putting up here. Even if some of them do, I&#8217;m not going to write about everything.</p>
+
+<p>But the blog can be used to express my opinion on a particular subject. Whenever they want my opinion on a subject, a blog post can be the answer. And the URL of the post can be thrown in for discussion. I find this an effective way of getting others to know me.</p>
+
+<h3>I want to get followers</h3>
+
+<p>I would like to be famous. Not kind of star famous. Simply get like-minded people to read my blog reglarly. Why do I need this? Come on, you know why. Read the about page again, I&#8217;m bootstraping my startups.</p>
+
+<p>And I belive if I post interesting and quality contnet regularly I may have a chance to get my followers.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Resurrection]]></title>
