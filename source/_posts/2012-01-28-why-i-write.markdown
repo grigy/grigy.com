@@ -15,9 +15,9 @@ Here are 5 reasons from the top of my head:
 ### I get it better if I write it down
 Since college years I noticed that when I write my ideas I get them better. Later I realized how it works.
 
-When you write about something you need to think of every detail of it, make logical connections between pieces and represent it in a simple, readable form. And while performing these steps you think about the subject deeper, from different angles and as a result getting it better.
+When you write about something you need to think of every detail of it, make logical connections between pieces and represent it in a simple, readable form. And while performing these steps you think about the subject deeper, from different angles and as a result I get it better.
 
-Since then whenever I want to crack complex subjects down I write them.
+Since then whenever I want to crack complex subject down I write them.
 
 ### Writing improves my writing skills
 I want to be good at English writing. Not good, even better.
@@ -41,4 +41,4 @@ But the blog can be used to express my opinion on a particular subject. Whenever
 ### I want to get followers
 I would like to be famous. Not kind of star-famous. Simply get like-minded people to read my blog regularly. Why do I need this? Come on, you know why. Read the about page again, I'm bootstraping my startups.
 
-And I belive if I post interesting and quality contnet regularly I may have a chance to get my followers.
+And I belive if I post interesting and quality content regularly I may have a chance to get my followers.
