@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-01-28T17:58:52+04:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://grigy.com/atom.xml" rel="self"/>
+  <link href="http://grigy.com/"/>
+  <updated>2012-01-28T18:08:57+04:00</updated>
+  <id>http://grigy.com/</id>
   <author>
     <name><![CDATA[]]></name>
     
@@ -15,12 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[Resurrection]]></title>
-    <link href="http://yoursite.com/blog/2012/01/28/resurrection/"/>
+    <link href="http://grigy.com/blog/2012/01/28/resurrection/"/>
     <updated>2012-01-28T17:21:00+04:00</updated>
-    <id>http://yoursite.com/blog/2012/01/28/resurrection</id>
+    <id>http://grigy.com/blog/2012/01/28/resurrection</id>
     <content type="html"><![CDATA[<p>Finally I decided to give another shot to blogging. This is my third attempt.</p>
 
-<p>If you skim over the previous attempts, you will see that every time it becomes more serous. And hopefully this time it&#8217;s already at the level of seriousness that I&#8217;ll stick to it.</p>
+<p>If you skim over the previous blogs, you will see that it becomes more serious with each new attempt. And hopefully this time it&#8217;s already at the level of seriousness that I&#8217;ll stick to it.</p>
 
 <p>Crossing fingers and stopping breath for a moment I think loudly &#8220;promise to take care of this one&#8221;.</p>
 
