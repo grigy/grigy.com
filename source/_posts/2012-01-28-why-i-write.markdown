@@ -6,9 +6,9 @@ comments: true
 categories: 
 ---
 
-The simple answer is because I feel I need to. But you are not here for that answer.
+The simple answer is because I feel I need to. But you are here not for that answer.
 
-There are many write-ups about why should someone blog. They cover both objective and subjective benefits of blogging. This is not a generalization of these ideas. Here I want to talk about my personal reasons, the ones to which I came myself while learning through living my life.
+There are many write-ups about why should someone blog. They cover both objective and subjective benefits of blogging. This is not a generalization of these ideas. I want to tell about my personal reasons, the ones to which I came myself while learning through living my life.
 
 Here are 5 reasons from the top of my head:
 

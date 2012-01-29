@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://grigy.heroku.com/atom.xml" rel="self"/>
   <link href="http://grigy.heroku.com/"/>
-  <updated>2012-01-29T12:18:54+04:00</updated>
+  <updated>2012-01-29T12:23:29+04:00</updated>
   <id>http://grigy.heroku.com/</id>
   <author>
     <name><![CDATA[Grigor Yeghiazaryan]]></name>
@@ -18,9 +18,9 @@
     <link href="http://grigy.heroku.com/blog/2012/01/28/why-i-write/"/>
     <updated>2012-01-28T18:55:00+04:00</updated>
     <id>http://grigy.heroku.com/blog/2012/01/28/why-i-write</id>
-    <content type="html"><![CDATA[<p>The simple answer is because I feel I need to. But you are not here for that answer.</p>
+    <content type="html"><![CDATA[<p>The simple answer is because I feel I need to. But you are here not for that answer.</p>
 
-<p>There are many write-ups about why should someone blog. They cover both objective and subjective benefits of blogging. This is not a generalization of these ideas. Here I want to talk about my personal reasons, the ones to which I came myself while learning through living my life.</p>
+<p>There are many write-ups about why should someone blog. They cover both objective and subjective benefits of blogging. This is not a generalization of these ideas. I want to tell about my personal reasons, the ones to which I came myself while learning through living my life.</p>
 
 <p>Here are 5 reasons from the top of my head:</p>
 
