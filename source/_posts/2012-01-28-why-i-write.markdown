@@ -15,9 +15,9 @@ Here are 5 reasons from the top of my head:
 ### I get it better if I write it down
 Since college years I noticed that when I write my ideas I get them better. Later I realized how it works.
 
-When you write about something you need to think of every detail of it, make logical connections between pieces and represent it in a simple, readable form. And while performing these steps you think about the subject deeper, from different angles and as a result I get it better.
+When you write about something you need to think of every detail of it, make logical connections between pieces and represent it in a simple, readable form. And while performing these steps you think about the subject deeper, from different angles and as a result you get it better.
 
-Since then whenever I want to crack complex subject down I write them.
+Since then whenever I want to crack complex subjects down I write them.
 
 ### Writing improves my writing skills
 I want to be good at English writing. Not good, even better.
@@ -29,7 +29,7 @@ So blogging makes a perfect sense to me for improving my writing skills.
 ### I want to share my knowledge
 Really, I want to share what I know to help others.
 
-And I truly believe that it is also for my own sake.If people around me know as much as I do, then I need to learn even more to catch them up. This is a little secret tool to keep me in constant learning loop. 
+And I truly believe that it is also for my own sake. If people around me know as much as I do, then I need to learn even more to catch them up. This is a little secret tool to keep me in constant learning loop. 
 
 Actually I think knowledge sharing is a powerful motivator for constant learning.
 

@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://grigy.com/atom.xml" rel="self"/>
-  <link href="http://grigy.com/"/>
-  <updated>2012-01-28T21:34:15+04:00</updated>
-  <id>http://grigy.com/</id>
+  <link href="http://grigy.heroku.com/atom.xml" rel="self"/>
+  <link href="http://grigy.heroku.com/"/>
+  <updated>2012-01-29T12:14:17+04:00</updated>
+  <id>http://grigy.heroku.com/</id>
   <author>
-    <name><![CDATA[]]></name>
+    <name><![CDATA[Grigor Yeghiazaryan]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why I Write]]></title>
-    <link href="http://grigy.com/blog/2012/01/28/why-i-write/"/>
+    <link href="http://grigy.heroku.com/blog/2012/01/28/why-i-write/"/>
     <updated>2012-01-28T18:55:00+04:00</updated>
-    <id>http://grigy.com/blog/2012/01/28/why-i-write</id>
+    <id>http://grigy.heroku.com/blog/2012/01/28/why-i-write</id>
     <content type="html"><![CDATA[<p>The simple answer is because I feel I need to. But you are not here for that answer.</p>
 
 <p>There are many write-ups about why should someone blog. They cover both objective and subjective benefits of blogging. This is not a generalization of these ideas. Here I want to talk about my personal reasons, the ones to which I came myself while learning through living my life.</p>
@@ -28,9 +28,9 @@
 
 <p>Since college years I noticed that when I write my ideas I get them better. Later I realized how it works.</p>
 
-<p>When you write about something you need to think of every detail of it, make logical connections between pieces and represent it in a simple, readable form. And while performing these steps you think about the subject deeper, from different angles and as a result I get it better.</p>
+<p>When you write about something you need to think of every detail of it, make logical connections between pieces and represent it in a simple, readable form. And while performing these steps you think about the subject deeper, from different angles and as a result you get it better.</p>
 
-<p>Since then whenever I want to crack complex subject down I write them.</p>
+<p>Since then whenever I want to crack complex subjects down I write them.</p>
 
 <h3>Writing improves my writing skills</h3>
 
@@ -44,7 +44,7 @@
 
 <p>Really, I want to share what I know to help others.</p>
 
-<p>And I truly believe that it is also for my own sake.If people around me know as much as I do, then I need to learn even more to catch them up. This is a little secret tool to keep me in constant learning loop.</p>
+<p>And I truly believe that it is also for my own sake. If people around me know as much as I do, then I need to learn even more to catch them up. This is a little secret tool to keep me in constant learning loop.</p>
 
 <p>Actually I think knowledge sharing is a powerful motivator for constant learning.</p>
 
@@ -64,9 +64,9 @@
   
   <entry>
     <title type="html"><![CDATA[Resurrection]]></title>
-    <link href="http://grigy.com/blog/2012/01/28/resurrection/"/>
+    <link href="http://grigy.heroku.com/blog/2012/01/28/resurrection/"/>
     <updated>2012-01-28T17:21:00+04:00</updated>
-    <id>http://grigy.com/blog/2012/01/28/resurrection</id>
+    <id>http://grigy.heroku.com/blog/2012/01/28/resurrection</id>
     <content type="html"><![CDATA[<p>Finally I decided to give another shot to blogging. This is my third attempt.</p>
 
 <p>If you skim over the previous blogs, you will see that it becomes more serious with every new attempt. And hopefully this time it&#8217;s already at the level of seriousness that I&#8217;ll stick to it.</p>
