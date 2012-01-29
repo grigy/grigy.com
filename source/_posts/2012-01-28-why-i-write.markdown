@@ -39,6 +39,6 @@ Ideally when meeting new people I would let them know my blog's URL and they cou
 But the blog can be used to express my opinion on a particular subject. Whenever they want my opinion on a subject, a blog post can be the answer. And the URL of the post can be thrown in for discussion. I find this an effective way of getting others to know me.
 
 ### I want to get followers
-I would like to be famous. Not kind of star-famous. Simply get like-minded people to read my blog regularly. Why do I need this? Come on, you know why. Read the about page again, I'm bootstraping my startups.
+I would like to be famous. Not kind of star-famous. Simply get like-minded people to read my blog regularly. Why do I need this? Come on, you know why. Read the about page again, I'm bootstraping my startups and I need to spread the word.
 
-And I belive if I post interesting and quality content regularly I may have a chance to get my followers.
+I belive if I post interesting and quality content regularly I may have a chance to get my followers.
