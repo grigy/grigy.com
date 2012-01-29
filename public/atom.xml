@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Grigor Yeghiazaryan]]></title>
-  <link href="http://grigy.heroku.com/atom.xml" rel="self"/>
-  <link href="http://grigy.heroku.com/"/>
-  <updated>2012-01-29T18:14:03+04:00</updated>
-  <id>http://grigy.heroku.com/</id>
+  <link href="http://grigy.com/atom.xml" rel="self"/>
+  <link href="http://grigy.com/"/>
+  <updated>2012-01-29T18:56:49+04:00</updated>
+  <id>http://grigy.com/</id>
   <author>
     <name><![CDATA[Grigor Yeghiazaryan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why I Switched to Octopress]]></title>
-    <link href="http://grigy.heroku.com/blog/2012/01/29/why-i-switched-to-octopress/"/>
+    <link href="http://grigy.com/blog/2012/01/29/why-i-switched-to-octopress/"/>
     <updated>2012-01-29T17:25:00+04:00</updated>
-    <id>http://grigy.heroku.com/blog/2012/01/29/why-i-switched-to-octopress</id>
+    <id>http://grigy.com/blog/2012/01/29/why-i-switched-to-octopress</id>
     <content type="html"><![CDATA[<p>I have tried all famous blogging platforms, Blogger, Wordpress, Tumblr, Posterous. Every time switching from one to another I saw some benefits. But I was still unsatisfied. I&#8217;m perfectionist and always looking for better ways to accomplish things. Something was still missing. Until I realized what.</p>
 
 <p>I wanted to separate content from representation, have more control over my data, better integration with 3rd party services and cheaper or free hosting.</p>
@@ -46,9 +46,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why I Write]]></title>
-    <link href="http://grigy.heroku.com/blog/2012/01/28/why-i-write/"/>
+    <link href="http://grigy.com/blog/2012/01/28/why-i-write/"/>
     <updated>2012-01-28T18:55:00+04:00</updated>
-    <id>http://grigy.heroku.com/blog/2012/01/28/why-i-write</id>
+    <id>http://grigy.com/blog/2012/01/28/why-i-write</id>
     <content type="html"><![CDATA[<p>The simple answer is because I feel I need to. But you are here not for that answer.</p>
 
 <p>There are many write-ups about why should someone blog. They cover both objective and subjective benefits of blogging. This is not a generalization of these ideas. I want to tell about my personal reasons, the ones to which I came myself while learning through living my life.</p>
@@ -95,9 +95,9 @@
   
   <entry>
     <title type="html"><![CDATA[Resurrection]]></title>
-    <link href="http://grigy.heroku.com/blog/2012/01/28/resurrection/"/>
+    <link href="http://grigy.com/blog/2012/01/28/resurrection/"/>
     <updated>2012-01-28T17:21:00+04:00</updated>
-    <id>http://grigy.heroku.com/blog/2012/01/28/resurrection</id>
+    <id>http://grigy.com/blog/2012/01/28/resurrection</id>
     <content type="html"><![CDATA[<p>Finally I decided to give another shot to blogging. This is my third attempt.</p>
 
 <p>If you skim over the previous blogs, you will see that it becomes more serious with every new attempt. And hopefully this time it&#8217;s already at the level of seriousness that I&#8217;ll stick to it.</p>
