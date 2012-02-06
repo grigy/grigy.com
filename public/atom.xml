@@ -4,7 +4,7 @@
   <title><![CDATA[Grigor Yeghiazaryan]]></title>
   <link href="http://grigy.com/atom.xml" rel="self"/>
   <link href="http://grigy.com/"/>
-  <updated>2012-01-29T19:20:14+04:00</updated>
+  <updated>2012-02-06T23:51:22+04:00</updated>
   <id>http://grigy.com/</id>
   <author>
     <name><![CDATA[Grigor Yeghiazaryan]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Why of Your Startup]]></title>
+    <link href="http://grigy.com/blog/2012/02/06/the-why-of-your-startup/"/>
+    <updated>2012-02-06T23:21:00+04:00</updated>
+    <id>http://grigy.com/blog/2012/02/06/the-why-of-your-startup</id>
+    <content type="html"><![CDATA[<p>After watching Simon Sinek&#8217;s TED talk &#8221;<a href="http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action.html">How Great Leaders Inspire Action</a>&#8221; I thought how the golden circle could be applied to startups. The central question in the golden circle is &#8220;why&#8221;. Why are you doing what you are doing?</p>
+
+<p>In this post I&#8217;m not going to explain what is the golden circle and why it is so important. If you have not watched the talk, stop now reading and go to watch.</p>
+
+<blockquote><p>&#8220;People don&#8217;t buy what you do; they buy why you do it.&#8221;</p></blockquote>
+
+<p>This is the main message of the talk. So what could startups do to show off their &#8220;why&#8221;?</p>
+
+<p>The &#8220;why&#8221; can be anything between your values and beliefs to desire of changing the world and making it better place to live. Showing the &#8220;why&#8221; practically can be as simple as coming up with a good and catchy slogan and as complex as defining company&#8217;s strategy.</p>
+
+<p>But to make it clear I came up with five practical things that you can do to show the &#8220;why&#8221; of your startup.</p>
+
+<h3>Express your passion of the subject</h3>
+
+<p>Constantly research the subject area. Blog about your findings. Share related news. Discuss allied topics on forums. Show that you are really interested in the subject and not hesitating to spend your valuable time on it. People who have the same passion will follow you.</p>
+
+<h3>Write down your values</h3>
+
+<p>Have a section where you tell about your values and beliefs. And that should not be something hidden deep under <em>About / Corporate / Management / Values</em> menu. Put it right on the first page, so anyone visiting your site could see it. People who share the same values will follow you.</p>
+
+<h3>Show the destination</h3>
+
+<p>Present the future as you envision. Tell how do you see the world with your ideas implemented. What they can expect? If they take the journey with you, where they will end up? People who want to get there will follow you.</p>
+
+<h3>Tell the story</h3>
+
+<p>Behind every initiation there is a story. Why did you decide to do what you do? How it happened that you came up with the idea? Find your story and tell. People who find your story familiar will follow you.</p>
+
+<h3>Introduce your team</h3>
+
+<p>People behind the scene are the most important part of your startup. Your team mates probably have the same values and beliefs. Show your team. And put it on the first page. People who want to be part of that team will follow you. Some of them even may want to work with you.</p>
+
+<p>These ideas represent my imagination on what could I do to answer the question &#8220;why&#8221;. It does not pretend to completeness or even correctness.</p>
+
+<p>So what are some of your methods of showing the &#8220;why&#8221; of your startup?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why I Switched to Octopress]]></title>
