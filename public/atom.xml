@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Grigor Yeghiazaryan]]></title>
-  <link href="http://grigy.com/atom.xml" rel="self"/>
-  <link href="http://grigy.com/"/>
-  <updated>2012-02-06T23:51:22+04:00</updated>
-  <id>http://grigy.com/</id>
+  <link href="http://grigy.heroku.com/atom.xml" rel="self"/>
+  <link href="http://grigy.heroku.com/"/>
+  <updated>2012-02-15T23:52:19+04:00</updated>
+  <id>http://grigy.heroku.com/</id>
   <author>
     <name><![CDATA[Grigor Yeghiazaryan]]></name>
     
@@ -14,10 +14,55 @@
 
   
   <entry>
+    <title type="html"><![CDATA[How to Pick Startup Idea]]></title>
+    <link href="http://grigy.heroku.com/blog/2012/02/15/how-to-pick-startup-idea/"/>
+    <updated>2012-02-15T23:38:00+04:00</updated>
+    <id>http://grigy.heroku.com/blog/2012/02/15/how-to-pick-startup-idea</id>
+    <content type="html"><![CDATA[<p>I&#8217;m at an inclination point, where I think to stop what I&#8217;m doing and start a new thing. While working on my last idea I learned a few things that hopefully will help me to choose the right path to success.</p>
+
+<p>Now the question is &#8220;if you got a few startup ideas which one you should work on?&#8221;</p>
+
+<p>I came up with a few points that you may want to consider when picking an idea for your next startup. So you would want to pick the idea that:</p>
+
+<h3>Matches your long term values</h3>
+
+<p>This is basically the answer to the question &#8220;why&#8221;. If someone ask why you are doing that, you can answer with proud. This has to be something high, something that you would want to do the rest of your life. This is the main reason that keeps you awake in the night and makes you quit your day job, if you have one.</p>
+
+<h3>Can be built with the technology you want to work with</h3>
+
+<p>You need to enjoy the development process. Otherwise it becomes unpaid work. That.s why it&#8217;s important to pick the technologies, tools and services that you love. From another side the technology may influence the user experience of the end product significantly. So the choice technology becomes double important.</p>
+
+<h3>Solves your own problem</h3>
+
+<p>You are the first and the most important customer of your product. You need to feel the pain of the problem and be ready to pay for a similar product or at least become passionate user if it&#8217;s already built by someone else. This will help to make right choices along the development and prioritize the key features.</p>
+
+<h3>Has similar services none of which is as good you would want</h3>
+
+<p>If there are similar products or services that means there are developed markets with existing users and customers. Which means if you make slightly better product or service some of existing users may want to switch. Theoretically! Improving on existing product is safer and chances are you will get a usable product.</p>
+
+<h3>Has business model other than advertising</h3>
+
+<p>At the end of the day it has to generate money. But how? There are many cool ideas without consistent ways to monetize. Better to think it up front and come up with a strong business model. Personally I hate ad based monetization methods. The customers need to get real value that is much higher than the cost they pay.</p>
+
+<h3>General enough, so you can find users</h3>
+
+<p>Many experts advice to pick a niche market for small business. However finding users for a specialized product is hard. My approach is to start with a more general idea, pick enough early users and go to more specialized product for better differentiation. And probably end up in a niche. This is very tricky. But one thing is obvious. You don.t want to build something that does not have enough users.</p>
+
+<h3>Matches your areas of interest</h3>
+
+<p>Blogging is important part of startup marketing. While developing your product you are going to write about and around it. Better if it&#8217;s related to your interests. So you can get interesting information and pick juicy subjects for your posts.</p>
+
+<p>These points may be obvious to you. But I wanted to highlight my priorities and pin it to a page.</p>
+
+<p>So what are some of your priorities when picking an idea?</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[The Why of Your Startup]]></title>
-    <link href="http://grigy.com/blog/2012/02/06/the-why-of-your-startup/"/>
+    <link href="http://grigy.heroku.com/blog/2012/02/06/the-why-of-your-startup/"/>
     <updated>2012-02-06T23:21:00+04:00</updated>
-    <id>http://grigy.com/blog/2012/02/06/the-why-of-your-startup</id>
+    <id>http://grigy.heroku.com/blog/2012/02/06/the-why-of-your-startup</id>
     <content type="html"><![CDATA[<p>After watching Simon Sinek&#8217;s TED talk &#8221;<a href="http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action.html">How Great Leaders Inspire Action</a>&#8221; I thought how the golden circle could be applied to startups. The central question in the golden circle is &#8220;why&#8221;. Why are you doing what you are doing?</p>
 
 <p>In this post I&#8217;m not going to explain what is the golden circle and why it is so important. If you have not watched the talk, stop now reading and go to watch.</p>
@@ -58,9 +103,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why I Switched to Octopress]]></title>
-    <link href="http://grigy.com/blog/2012/01/29/why-i-switched-to-octopress/"/>
+    <link href="http://grigy.heroku.com/blog/2012/01/29/why-i-switched-to-octopress/"/>
     <updated>2012-01-29T17:25:00+04:00</updated>
-    <id>http://grigy.com/blog/2012/01/29/why-i-switched-to-octopress</id>
+    <id>http://grigy.heroku.com/blog/2012/01/29/why-i-switched-to-octopress</id>
     <content type="html"><![CDATA[<p>I have tried all famous blogging platforms, Blogger, Wordpress, Tumblr, Posterous. Every time switching from one to another I saw some benefits. But I was still unsatisfied. I&#8217;m perfectionist and always looking for better ways to accomplish things. Something was still missing. Until I realized what.</p>
 
 <p>I wanted to separate content from representation, have more control over my data, better integration with 3rd party services and cheaper or free hosting.</p>
@@ -89,9 +134,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why I Write]]></title>
-    <link href="http://grigy.com/blog/2012/01/28/why-i-write/"/>
+    <link href="http://grigy.heroku.com/blog/2012/01/28/why-i-write/"/>
     <updated>2012-01-28T18:55:00+04:00</updated>
-    <id>http://grigy.com/blog/2012/01/28/why-i-write</id>
+    <id>http://grigy.heroku.com/blog/2012/01/28/why-i-write</id>
     <content type="html"><![CDATA[<p>The simple answer is because I feel I need to. But you are here not for that answer.</p>
 
 <p>There are many write-ups about why should someone blog. They cover both objective and subjective benefits of blogging. This is not a generalization of these ideas. I want to tell about my personal reasons, the ones to which I came myself while learning through living my life.</p>
@@ -138,9 +183,9 @@
   
   <entry>
     <title type="html"><![CDATA[Resurrection]]></title>
-    <link href="http://grigy.com/blog/2012/01/28/resurrection/"/>
+    <link href="http://grigy.heroku.com/blog/2012/01/28/resurrection/"/>
     <updated>2012-01-28T17:21:00+04:00</updated>
-    <id>http://grigy.com/blog/2012/01/28/resurrection</id>
+    <id>http://grigy.heroku.com/blog/2012/01/28/resurrection</id>
     <content type="html"><![CDATA[<p>Finally I decided to give another shot to blogging. This is my third attempt.</p>
 
 <p>If you skim over the previous blogs, you will see that it becomes more serious with every new attempt. And hopefully this time it&#8217;s already at the level of seriousness that I&#8217;ll stick to it.</p>
