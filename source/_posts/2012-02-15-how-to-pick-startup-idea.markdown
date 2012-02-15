@@ -27,7 +27,7 @@ If there are similar products or services that means there are developed markets
 At the end of the day it has to generate money. But how? There are many cool ideas without consistent ways to monetize. Better to think it up front and come up with a strong business model. Personally I hate ad based monetization methods. The customers need to get real value that is much higher than the cost they pay.
 
 ### General enough, so you can find users
-Many experts advice to pick a niche market for small business. However finding users for a specialized product is hard. My approach is to start with a more general idea, pick enough early users and go to more specialized product for better differentiation. And probably end up in a niche. This is very tricky. But one thing is obvious. You don't want to build something that does not have enough users.
+Many experts advice to pick a niche market for small business. However finding users for a specialized product is hard. My approach is to start with a more general idea, pick enough early users and go to more specialized product for better differentiation. And probably end up in a niche. This is very tricky. But one thing is obvious. You don't want to build something that does not get enough users.
  
 ### Matches your areas of interest
 Blogging is important part of startup marketing. While developing your product you are going to write about and around it. Better if it's related to your interests. So you can get interesting information and pick juicy subjects for your posts.
