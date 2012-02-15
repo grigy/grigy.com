@@ -12,7 +12,7 @@ Now the question is "if you got a few startup ideas which one you should work on
 I came up with a few points that you may want to consider when picking an idea for your next startup. So you would want to pick the idea that:
 
 ### Matches your long term values
-This is basically the answer to the question "why". If someone ask why you are doing that, you can answer with proud. This has to be something high, something that you would want to do the rest of your life. This is the main reason that keeps you awake in the night and makes you quit your day job, if you have one.
+This is basically the answer to the question "[why](http://grigy.com/blog/2012/02/06/the-why-of-your-startup/)". If someone ask why you are doing that, you can answer with proud. This has to be something high, something that you would want to do the rest of your life. This is the main reason that keeps you awake in the night and makes you quit your day job, if you have one.
 
 ### Can be built with the technology you want to work with
 You need to enjoy the development process. Otherwise it becomes unpaid work. That.s why it's important to pick the technologies, tools and services that you love. From another side the technology may influence the user experience of the end product significantly. So the choice technology becomes double important.
