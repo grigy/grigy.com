@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Grigor Yeghiazaryan]]></title>
-  <link href="http://grigy.heroku.com/atom.xml" rel="self"/>
-  <link href="http://grigy.heroku.com/"/>
-  <updated>2012-02-16T01:11:27+04:00</updated>
-  <id>http://grigy.heroku.com/</id>
+  <link href="http://grigy.com/atom.xml" rel="self"/>
+  <link href="http://grigy.com/"/>
+  <updated>2012-02-26T23:54:26+04:00</updated>
+  <id>http://grigy.com/</id>
   <author>
     <name><![CDATA[Grigor Yeghiazaryan]]></name>
     
@@ -14,10 +14,49 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Lean Startup is Hard]]></title>
+    <link href="http://grigy.com/blog/2012/02/26/lean-startup-is-hard/"/>
+    <updated>2012-02-26T23:33:00+04:00</updated>
+    <id>http://grigy.com/blog/2012/02/26/lean-startup-is-hard</id>
+    <content type="html"><![CDATA[<p>Lean startup methodology is a scientific approach to entrepreneurship. I&#8217;m scientist and I love it. It&#8217;s revolutionary. But it&#8217;s hard. For some entrepreneurs it&#8217;s even harder than making something with a fear of ending up with a useless thing thus wasting time and money.</p>
+
+<p>I assume you are familiar with the basic ideas of lean startup. Otherwise try to grasp the main <a href="http://theleanstartup.com/principles">principles</a> or better read the <a href="http://amzn.com/0307887898">book</a>.</p>
+
+<p>So why I think it&#8217;s hard and what can be done about it? Let&#8217;s consider the following practices:</p>
+
+<h3>Finding right people for customer interviews is hard</h3>
+
+<p>Even we can imagine our target users, getting to real people is hard. The right people may not be around and may not be accessible. Also we need to be able to identify whether the interviewee is the right person and is part of target audience. Otherwise we get inappropriate feedback and incorrect results.</p>
+
+<h3>Conducting customer interviews is hard</h3>
+
+<p>Even we realize that interview is set up for discovery and proving or disproving the hypothesis, we are still unconsciously biased. We may be so attached to our beliefs and ideas that we can miss the real feedback from interview. It&#8217;s the human nature. We first believe then find justification.</p>
+
+<h3>Figuring out MVP is hard</h3>
+
+<p>What should we build for our first iteration? How &#8220;lean&#8221; should it be? If it&#8217;s too &#8220;minimal&#8221; users may not find it useful enough. If it has more features then we may be wasting time building a useless product. I&#8217;m currently thinking about how to define MVP and trying to come up with some useful advice. So will write about this in future.</p>
+
+<h3>Designing experiments for validated learning is hard</h3>
+
+<p>As in science experiments are the essence of lean development. Everything starts like a ship being launched in a sea of uncertainty. Every feature being developed, every direction being taken need to be tested. But it&#8217;s hard to figure out what to measure and how.</p>
+
+<h3>Pivoting is hard</h3>
+
+<p>How do you know if it&#8217;s time to give up doing one thing and try another? Are you sure that there is no more hope and it&#8217;s safe disposing of your last idea? And again we are emotionally attached to our initial idea because we are used to build for success not failure.</p>
+
+<p>This post does not discourage the use of lean methodology. I just tried to highlight the problems that most people will face.</p>
+
+<p>It&#8217;s hard but not non-doable. Lean startup is a new discipline and there is not much information, experience and success stories around it. For successful implementation of lean methodology new mindset is required. We need to be more detached from our beliefs and ideas, and we need to learn to build for experiments.</p>
+
+<p>Also I think new specialized frameworks and services will emerge eventually that will guide us through the journey called lean startup.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[How to Pick Startup Idea]]></title>
-    <link href="http://grigy.heroku.com/blog/2012/02/15/how-to-pick-startup-idea/"/>
+    <link href="http://grigy.com/blog/2012/02/15/how-to-pick-startup-idea/"/>
     <updated>2012-02-15T23:38:00+04:00</updated>
-    <id>http://grigy.heroku.com/blog/2012/02/15/how-to-pick-startup-idea</id>
+    <id>http://grigy.com/blog/2012/02/15/how-to-pick-startup-idea</id>
     <content type="html"><![CDATA[<p>I&#8217;m at an inclination point, where I think to stop what I&#8217;m doing and start a new thing. While working on my last idea I learned a few things that hopefully will help me to choose the right path to success.</p>
 
 <p>Now the question is &#8220;if you got a few startup ideas which one you should work on?&#8221;</p>
@@ -60,9 +99,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Why of Your Startup]]></title>
-    <link href="http://grigy.heroku.com/blog/2012/02/06/the-why-of-your-startup/"/>
+    <link href="http://grigy.com/blog/2012/02/06/the-why-of-your-startup/"/>
     <updated>2012-02-06T23:21:00+04:00</updated>
-    <id>http://grigy.heroku.com/blog/2012/02/06/the-why-of-your-startup</id>
+    <id>http://grigy.com/blog/2012/02/06/the-why-of-your-startup</id>
     <content type="html"><![CDATA[<p>After watching Simon Sinek&#8217;s TED talk &#8221;<a href="http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action.html">How Great Leaders Inspire Action</a>&#8221; I thought how the golden circle could be applied to startups. The central question in the golden circle is &#8220;why&#8221;. Why are you doing what you are doing?</p>
 
 <p>In this post I&#8217;m not going to explain what is the golden circle and why it is so important. If you have not watched the talk, stop now reading and go to watch.</p>
@@ -103,9 +142,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why I Switched to Octopress]]></title>
-    <link href="http://grigy.heroku.com/blog/2012/01/29/why-i-switched-to-octopress/"/>
+    <link href="http://grigy.com/blog/2012/01/29/why-i-switched-to-octopress/"/>
     <updated>2012-01-29T17:25:00+04:00</updated>
-    <id>http://grigy.heroku.com/blog/2012/01/29/why-i-switched-to-octopress</id>
+    <id>http://grigy.com/blog/2012/01/29/why-i-switched-to-octopress</id>
     <content type="html"><![CDATA[<p>I have tried all famous blogging platforms, Blogger, Wordpress, Tumblr, Posterous. Every time switching from one to another I saw some benefits. But I was still unsatisfied. I&#8217;m perfectionist and always looking for better ways to accomplish things. Something was still missing. Until I realized what.</p>
 
 <p>I wanted to separate content from representation, have more control over my data, better integration with 3rd party services and cheaper or free hosting.</p>
@@ -134,9 +173,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why I Write]]></title>
-    <link href="http://grigy.heroku.com/blog/2012/01/28/why-i-write/"/>
+    <link href="http://grigy.com/blog/2012/01/28/why-i-write/"/>
     <updated>2012-01-28T18:55:00+04:00</updated>
-    <id>http://grigy.heroku.com/blog/2012/01/28/why-i-write</id>
+    <id>http://grigy.com/blog/2012/01/28/why-i-write</id>
     <content type="html"><![CDATA[<p>The simple answer is because I feel I need to. But you are here not for that answer.</p>
 
 <p>There are many write-ups about why should someone blog. They cover both objective and subjective benefits of blogging. This is not a generalization of these ideas. I want to tell about my personal reasons, the ones to which I came myself while learning through living my life.</p>
@@ -183,9 +222,9 @@
   
   <entry>
     <title type="html"><![CDATA[Resurrection]]></title>
-    <link href="http://grigy.heroku.com/blog/2012/01/28/resurrection/"/>
+    <link href="http://grigy.com/blog/2012/01/28/resurrection/"/>
     <updated>2012-01-28T17:21:00+04:00</updated>
-    <id>http://grigy.heroku.com/blog/2012/01/28/resurrection</id>
+    <id>http://grigy.com/blog/2012/01/28/resurrection</id>
     <content type="html"><![CDATA[<p>Finally I decided to give another shot to blogging. This is my third attempt.</p>
 
 <p>If you skim over the previous blogs, you will see that it becomes more serious with every new attempt. And hopefully this time it&#8217;s already at the level of seriousness that I&#8217;ll stick to it.</p>
