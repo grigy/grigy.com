@@ -24,7 +24,7 @@ What should we build for our first iteration? How "lean" should it be? If it's t
 As in science experiments are the essence of lean development. Everything starts like a ship being launched in a sea of uncertainty. Every feature being developed, every direction being taken need to be tested. But it's hard to figure out what to measure and how.
 
 ### Pivoting is hard
-How do you know if it's time to give up doing one thing and try another? Are you sure that there is no more hope and it's safe disposing of your last idea? And again we are emotionally attached to our initial idea because we are used to build for success not failure.
+How do you know if it's time to give up doing one thing and try another? Are you sure that there is no more hope and it's safe disposing of your current idea? And again we are emotionally attached to our initial idea because we are used to build for success not failure.
 
 
 This post does not discourage the use of lean methodology. I just tried to highlight the problems that most people will face.
