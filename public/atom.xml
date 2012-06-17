@@ -4,7 +4,7 @@
   <title><![CDATA[Grigor Yeghiazaryan]]></title>
   <link href="http://grigy.com/atom.xml" rel="self"/>
   <link href="http://grigy.com/"/>
-  <updated>2012-02-27T23:56:39+04:00</updated>
+  <updated>2012-06-17T22:37:53+04:00</updated>
   <id>http://grigy.com/</id>
   <author>
     <name><![CDATA[Grigor Yeghiazaryan]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How to Ask Questions]]></title>
+    <link href="http://grigy.com/blog/2012/06/17/how-to-ask-questions/"/>
+    <updated>2012-06-17T20:50:00+04:00</updated>
+    <id>http://grigy.com/blog/2012/06/17/how-to-ask-questions</id>
+    <content type="html"><![CDATA[<p>While browsing questions of new users at Stack Overflow I noticed that many questions get less attention and low rating due to being weakly formed. In this post I want to highliget some of the common problems and show how to make your questions better.</p>
+
+<h3>Read the official guide</h3>
+
+<p>If you are posting first time the &#8221;<a href="http://stackoverflow.com/questions/how-to-ask">how to ask</a>&#8221; is must read. Not doing so means no respect to community and you will probably get appropriate response. The rest of this post are additions to official &#8220;how to ask&#8221;.</p>
+
+<h3>Learn from good questions</h3>
+
+<p>Look at high rated questions and try to understand how they are formed. Try to use similar logical structure, language and style for your posts. Improve quality of questions incrementally, by looking at other posts and taking into account feedback for every new post.</p>
+
+<h3>Change the names to Foo Bar</h3>
+
+<p>Domain specific names usually distract from the main problem. Also your names may be long which is also distraction. Try to rename variable and function names to some gerneric names. Foo and Bar are just examples, you can come up with other generic names.</p>
+
+<h3>Format the text</h3>
+
+<p>Use the text formating capabilities of the system. It&#8217;s important to format the code sections, highlight keywords in the text, use quotes and lists. Learn the Markdown sytax and make formating a habbit. Again look at the other posts for style examples.</p>
+
+<h3>Show your interest</h3>
+
+<p>When posting a question about your problem you may want also to tell what you have tried so far that didn&#8217;t work. This shows that you are really interested in the problem and it&#8217;s not a homework type question, though nothing’s wrong with it.</p>
+
+<h3>Be short and specific</h3>
+
+<p>Drop redundant data that is not related to the question. Redundant information is another type of distraction. Generally your post should not contain any information that is not helping to understand the problem.</p>
+
+<h3>Keep it up to date</h3>
+
+<p>When you start to get answers to your question you may need to make corrections and clarifications in your post. Also even if the responses don&#8217;t answer your question completely but make some clarification you may want to edit your question and add additional information to help others to understand it better.</p>
+
+<p>I wrote this having Stack Overflow in mind. But the advices are general enough to be useful in general.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lean Startup is Hard]]></title>
